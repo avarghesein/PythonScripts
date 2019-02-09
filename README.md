@@ -12,7 +12,7 @@ Python Scripting Samples (written and tested in Visual Studio)
 
 # Scripts
 # 1. [FindWorkShiftByDate/FindWorkShiftByDate.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/FindWorkShiftByDate/FindWorkShiftByDate.py)
-Finds working shifts, given a date range. Shift details below, which can be configured in the source file.
+Finds working shifts, given a date range. Shift slots below, which can be configured in the source file.
 
     12:00 AM - 08:30 AM (Prev-Day Night Shift-3)
     08:31 AM - 06:30 PM (Day Shift-1)
