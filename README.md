@@ -11,7 +11,7 @@ Python Scripting Samples (written and tested in Visual Studio)
 ![alt UnitTestPythonInVS](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/PythonVSUnitTest.jpg)
 
 # Scripts
-# 1. FindWorkShiftByDate/FindWorkShiftByDate.py
+# 1. [FindWorkShiftByDate/FindWorkShiftByDate.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/FindWorkShiftByDate/FindWorkShiftByDate.py)
 Finds working shifts given a date range
 
     12:00 AM - 08:30 AM (Prev-Day Night Shift-3)
@@ -19,4 +19,4 @@ Finds working shifts given a date range
     06:31 PM - 10:30 PM (Second Shift-2)
     10:31 PM - 11:59 PM (Night Shift-3)
     
-See test cases written in FindWorkShiftByDate/FindWorkShiftByDate_test.py
+See test cases written in [FindWorkShiftByDate/FindWorkShiftByDate_test.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/FindWorkShiftByDate/FindWorkShiftByDate_test.py)
