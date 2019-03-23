@@ -20,3 +20,20 @@ Finds working shifts, given a date range. Shift slots below, which can be config
     10:31 PM - 11:59 PM (Night Shift-3)
     
 See test cases written in [FindWorkShiftByDate/FindWorkShiftByDate_test.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/FindWorkShiftByDate/FindWorkShiftByDate_test.py)
+
+# 2. [MatrixOperations/MatrixOperations.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/MatrixOperations/MatrixOperations.py)
+Simple matrix operations using 2D List and List Comprehensions.
+
+    #Matrix Format (With Column and Row headers support)
+    [["Person/Stock","Product1", "Product2","Product3"],
+     ["John",100, 20, 30],
+     ["Keith",20, 40, 10],
+     ["Russel",20, 60, 20]]
+     
+    #Columnwise Sum
+    [["John",150], ["Keith",70],["Russel",100]]
+    
+    #Rowwise Sum
+    [["Product1",140], ["Product2",120],["Product3",60]]
+    
+See test cases written in [MatrixOperations/MatrixOperations_Test.py](https://github.com/avarghesein/PythonScripts/blob/master/Scripts/MatrixOperations/MatrixOperations_Test.py)
