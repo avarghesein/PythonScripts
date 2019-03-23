@@ -30,9 +30,14 @@
     <Compile Include="FindWorkShiftByDate\FindWorkShiftByDate_test.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MatrixOperations\MatrixOperations_Test.py" />
+    <Compile Include="MatrixOperations\MatrixOperations.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="FindWorkShiftByDate\" />
+    <Folder Include="MatrixOperations\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
